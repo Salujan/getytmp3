@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow:
+
+Sitemap: https://www.getytmp3.com/sitemap.xml

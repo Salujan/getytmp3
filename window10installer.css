@@ -1,0 +1,137 @@
+
+
+
+.site-footer a{
+margin-left: 10px;
+    color: #7b7c7b;
+    font-size: 16;
+    color: #7b7c7b;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+     max-width: 600px;
+    border-top: 1px #dadada solid;
+    padding: 5px 0;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h5 {
+ font-size:0.9rem;
+  color: #222121; 
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    
+    margin: 0 0 20px 0
+}
+ h1{
+ font-size:0.9rem;
+  color: #222121; 
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    
+    margin: 0 0 20px 0;
+ 
+ }
+#text {
+
+  color: #222121;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-align: justify;
+    padding: 0 .333333333333333%;
+}
+h6 {
+    font-size: 0.9rem;
+    color: #222121;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin: 0 0 20px
+    }
+h4 {
+ font-size: 0.9rem;
+    color: #222121;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin: 0 0 20px
+    }
+     h2,h3{
+     font-size:0.9rem;
+  color: #222121; 
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    
+    margin: 0 0 20px 0;
+}
+ 
+
+.topnav {
+  overflow: hidden;
+	color: #fff;
+    background-color:blue
+}
+
+.topnav a {
+color: white;
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: white;
+  color: #303030
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 1000px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+body{background-color:rgba(0,0,0,.05);
+font-size:18px;
+}
+.separate-containers .inside-article{
+
+
+}
+@media (min-width: 768px)
+.entry-content {
+    color: inherit;
+}
+.size-auto, .size-full, .size-large, .size-medium, .size-thumbnail {
+    max-width: 100%;
+    height: 300px;} 
+
